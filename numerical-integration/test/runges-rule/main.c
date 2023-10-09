@@ -6,7 +6,7 @@
 #include <stdlib.h>
 
 static double function1(double x) {
-    return 2 * x * x + 0.124;
+    return 2 * x * x * x + 0.124;
 }
 
 static double function2(double x) {
