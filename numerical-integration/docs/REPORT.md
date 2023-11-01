@@ -101,11 +101,11 @@
         <tr>
             <th rowspan="3" style="writing-mode: vertical-lr">Метод численного интегрирования</th>
             <th>Метод Симпсона</th>
-            <td>9.129860</td>
             <td>9.152673</td>
-            <td>9.161995</td>
+            <td>9.160740</td>
             <td>9.164035</td>
-            <td>9.165116</td>
+            <td>9.164757</td>
+            <td>9.165139</td>
         </tr>
         <tr>
             <th>Метод левых прямоугольников</th>
@@ -143,7 +143,7 @@
             <th rowspan="3" style="writing-mode: vertical-lr">Метод численного интегрирования</th>
             <th>Метод Симпсона</th>
             <td>0.909542</td>
-            <td>0.909542</td>
+            <td>0.909543</td>
             <td>0.909543</td>
             <td>0.909543</td>
             <td>0.909543</td>
@@ -183,10 +183,10 @@
         <tr>
             <th rowspan="3" style="writing-mode: vertical-lr">Метод численного интегрирования</th>
             <th>Метод Симпсона</th>
-            <td>6.288892</td>
             <td>6.283529</td>
-            <td>6.283194</td>
+            <td>6.283207</td>
             <td>6.283186</td>
+            <td>6.283185</td>
             <td>6.283185</td>
         </tr>
         <tr>
@@ -266,10 +266,10 @@
         <tr>
             <th rowspan="3" style="writing-mode: vertical-lr">Метод численного интегрирования</th>
             <th>Метод Симпсона</th>
-            <td>1</td>
-            <td>1</td>
-            <td>1</td>
-            <td>1</td>
+            <td>nan</td>
+            <td>nan</td>
+            <td>nan</td>
+            <td>nan</td>
         </tr>
         <tr>
             <th>Метод левых прямоугольников</th>
@@ -286,8 +286,8 @@
             <td>2</td>
         </tr>
     </table>
-    
-+ $f(x) = \cos(x), x \in [ -\frac{\pi}{6}, \frac{\pi}{2}]$
+
++ $f(x) = \cos(x), x \in \[ -\frac{\pi}{6}, \frac{\pi}{2} \]$
 
     <table>
         <tr>
@@ -303,14 +303,14 @@
         <tr>
             <th rowspan="3" style="writing-mode: vertical-lr">Метод численного интегрирования</th>
             <th>Метод Симпсона</th>
-            <td>4.005947</td>
             <td>4.001484</td>
-            <td>4.000237</td>
+            <td>4.000371</td>
+            <td>4.000059</td>
             <td>4.000059</td>
         </tr>
         <tr>
             <th>Метод левых прямоугольников</th>
-            <td>0.929677</td>
+            <td>0.000014</td>
             <td>0.966124</td>
             <td>0.986735</td>
             <td>0.993413</td>
