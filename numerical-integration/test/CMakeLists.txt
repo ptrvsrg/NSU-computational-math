@@ -1,6 +1,5 @@
 ADD_EXECUTABLE(integration-test
-        integration/main.c
-        )
+        integration/main.c)
 TARGET_LINK_LIBRARIES(integration-test
         PRIVATE integration
         PRIVATE m)
